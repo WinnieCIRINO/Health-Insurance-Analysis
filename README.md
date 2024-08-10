@@ -34,8 +34,8 @@ The analysis covers various aspects, including:
 ## Requirements
 
 - **Excel**: Used for data cleaning and initial exploration.
-- **SQL/Python/R**: Employed for data wrangling and statistical analysis.
-- **Power BI/Matplotlib/Seaborn**: Utilized for creating visualizations and reports.
+- **SQL**: Employed for data wrangling and statistical analysis.
+- **Power BI**: Utilized for creating visualizations and reports.
 
 ## Analysis and Visualization (Power BI Report)
 Click the image below to be directed to an interactive dashboard.
